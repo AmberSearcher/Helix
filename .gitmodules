@@ -1,0 +1,9 @@
+[submodule "Indicium"]
+	path = Indicium
+	url = https://github.com/AmberSearcher/Indicium.git
+[submodule "Saffron"]
+	path = Saffron
+	url = https://github.com/AmberSearcher/Saffron.git
+[submodule "Rake"]
+	path = Rake
+	url = https://github.com/AmberSearcher/Rake.git
